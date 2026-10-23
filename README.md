@@ -117,3 +117,6 @@ Big Dig и все игровые ассеты принадлежат BirdGang. �
 ## Changelog
 
 См. [CHANGELOG.md](CHANGELOG.md).
+
+##Поддержка
+https://boosty.to/ga4ignida
