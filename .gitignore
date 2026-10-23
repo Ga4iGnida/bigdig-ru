@@ -1,0 +1,18 @@
+# Local build artifacts
+dist/
+build/
+*.zip
+*.7z
+
+# Backups
+BigDig-RU-Backup/
+*.bak
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
